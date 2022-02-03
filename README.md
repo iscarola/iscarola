@@ -21,8 +21,8 @@
   
   <div align="center">
   <a href="https://github.com/iscarola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iscarola&show_icons=true&bg_color=30,cb997e,b7b7a4&title_color=6b705c&icon_color=ddbea9&text_color=fff&),&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscarola&layout=compact&langs_count=7&&bg_color=30,cb997e,b7b7a4&icon_color=ddbea9&title_color=6b705c&text_color=fff" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iscarola&show_icons=true&bg_color=30,cb997e,b7b7a4&title_color=6b705c&icon_color=ddbea9&text_color=fff&),&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscarola&layout=compact&langs_count=7&&bg_color=30,cb997e,b7b7a4&icon_color=ddbea9&title_color=6b705c&text_color=fff" />
 </div>
   
       
