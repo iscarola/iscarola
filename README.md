@@ -5,7 +5,7 @@
 👩🏻‍💻   Entusiasta em assuntos referentes à **Tecnologia, Big Data, UI/UX, Customer Experience, Front-End, SAP, Git e GitHub**.
      
             
-<img align="right" alt="Carol-pic" height="250" style="border-radius:50px;" src="https://i.pinimg.com/originals/24/b7/fc/24b7fc7899253722f8540eaa6bb2614a.jpg">
+<img align="right" alt="Carol-pic" height="250px" style="border-radius:50px;" src="https://i.pinimg.com/originals/24/b7/fc/24b7fc7899253722f8540eaa6bb2614a.jpg">
 
 #### Onde mais você pode me encontrar:
   <div> 
@@ -29,11 +29,11 @@
  ![Snake animation](https://github.com/iscarola/iscarola/blob/output/github-contribution-grid-snake.svg)
       
 <div style="display: inline_block"><br> 
-  <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Logo-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="Logo-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Logo-StudioCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Logo-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo-Canva" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Logo-Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Logo-StudioCode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   
     
 </div>
